@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "club.cpacket.packetlogger.mixin.mixins",
+  "refmap": "mixins.packetlogger.refmap.json",
+  "mixins": [
+    "MixinNetworkManager"
+  ]
+}
